@@ -1,0 +1,176 @@
+text,age,gender,education,ses,dialogue,change_type
+I'm trying to decide which classes to take next semester. So many options!,young,,,,,
+Does anyone know if the library is open late tonight? I have a paper due.,young,,,,,
+"I just moved into my first apartment. It's small, but it's mine.",young,,,,,
+I spent all day working on my coding project. It's finally working.,young,,,,,
+I'm meeting my friends for coffee later. We haven't seen each other in ages.,young,,,,,
+I'm interning at a local non-profit this summer. It's been really rewarding.,young,,,,,
+I'm saving up for a new laptop. This one is starting to get really slow.,young,,,,,
+I'm thinking of studying abroad next year. I need to start the application soon.,young,,,,,
+I went hiking with friends this weekend. The views from the top were amazing.,young,,,,,
+I'm volunteering at the animal shelter. It's fun to play with the dogs.,young,,,,,
+I'm training for a half-marathon. I need to increase my mileage this week.,young,,,,,
+I'm trying to learn a new language in my free time. It's harder than I thought.,young,,,,,
+"I just started a new job. It's a lot to learn, but I'm excited.",young,,,,,
+"I'm attending a career fair next week. Hopefully, I will find some connections.",young,,,,,
+I'm working on my resume. I want to apply for an internship at a tech company.,young,,,,,
+I'm thinking of finally taking that pottery class I've always wanted to.,old,,,,,
+My grandkids are teaching me all about the latest social media trends.,old,,,,,
+I enjoy spending my mornings tending to my garden and watching the birds.,old,,,,,
+We're planning a trip to see the fall foliage in New England this year.,old,,,,,
+Volunteering at the local library keeps me active and engaged with the community.,old,,,,,
+I've started taking a daily walk around the park to stay healthy.,old,,,,,
+I love to read and discuss books with my friends in our book club.,old,,,,,
+My spouse and I are celebrating our 50th wedding anniversary this year.,old,,,,,
+"Now that I'm retired, I have time to pursue my passion for woodworking.",old,,,,,
+I find so much joy in baking cookies for the neighborhood kids.,old,,,,,
+I'm looking forward to spending more time with my family during the holidays.,old,,,,,
+We recently downsized and moved into a cozy little apartment.,old,,,,,
+I'm learning how to use my new tablet to video chat with my family.,old,,,,,
+I enjoy attending local concerts and theater productions.,old,,,,,
+It's important to me to stay connected with old friends.,old,,,,,
+"I'm heading to the gym after work. Gotta keep up with my fitness goals, you know?",,male,,,,
+Anyone else having trouble with the new software update? It's been crashing on me all morning.,,male,,,,
+I'm thinking about grilling burgers this weekend. Weather's supposed to be perfect.,,male,,,,
+Just finished reading a really great sci-fi novel. I can lend it to you if you're interested.,,male,,,,
+I'm taking my car in for an oil change later. It's about time for some maintenance.,,male,,,,
+I need to remember to pick up dry cleaning. It's been piling up for weeks.,,male,,,,
+Spent the afternoon tinkering with my motorcycle. I love working on engines.,,male,,,,
+I'm meeting some friends for a game night on Saturday. We're playing board games.,,male,,,,
+I'm going to try that new pizza place downtown. Heard they have good reviews.,,male,,,,
+I should start planning my vacation. I need a break from everything soon.,,male,,,,
+Did you watch the football game last night? That was a crazy finish.,,male,,,,
+"I'm training for a marathon. It's tough, but I feel great.",,male,,,,
+I saw a deer in my backyard this morning. What a beautiful animal!,,male,,,,
+I need to get some new tools. My old drill bit just broke.,,male,,,,
+I'm looking forward to the concert next week. I love live music.,,male,,,,
+I need to remember to pick up groceries after work today. I'm planning a nice dinner.,,female,,,,
+Did you see the latest episode of that show we were watching? I thought it was great.,,female,,,,
+My niece is graduating high school this year. I can't believe how fast time flies.,,female,,,,
+I'm going to try that new yoga class at the community center. It seems relaxing.,,female,,,,
+I'm taking a pottery class on Tuesdays now. It's a fun way to de-stress.,,female,,,,
+I need to remember to call my mom later. We haven't talked in a while.,,female,,,,
+I'm thinking about redecorating the living room. I need some inspiration.,,female,,,,
+I'm meeting a friend for coffee this weekend. It will be nice to catch up.,,female,,,,
+"I'm trying out a new recipe this week. Hopefully, it turns out well.",,female,,,,
+I finally finished that book I was reading. It was such a good story!,,female,,,,
+I'm going to the farmer's market this weekend to buy some fresh produce. I love supporting local farms.,,female,,,,
+I have a doctor's appointment next week. I need to remember to bring my insurance card.,,female,,,,
+I'm volunteering at the animal shelter on Saturday. I always enjoy helping out.,,female,,,,
+I'm attending a conference next month for work. I'm looking forward to learning new things.,,female,,,,
+I'm planning a trip to the beach this summer. I can't wait to relax in the sun.,,female,,,,
+I'm thinking of volunteering at the local library after work. Maybe I'll help with the children's reading program.,,other,,,,
+My doctor recommended I start a new exercise routine. I think I'll try swimming at the community pool.,,other,,,,
+I'm meeting a friend for coffee later to discuss our plans for the community garden this spring.,,other,,,,
+"I'm taking an online course to learn more about coding. It's challenging, but I enjoy it.",,other,,,,
+"I need to renew my driver's license this week. The DMV is always such a hassle, isn't it?",,other,,,,
+I'm looking forward to the art exhibit at the gallery downtown. I heard there's a new sculptor featured.,,other,,,,
+I usually spend my weekends hiking in the nearby state park. The trails are so peaceful.,,other,,,,
+I am going to try out that new bubble tea place after class today.,,other,,,,
+I'm going to try learning how to play the guitar. I think I'll start with some online tutorials.,,other,,,,
+I need to book a flight home for the holidays soon. Prices are probably going to go up.,,other,,,,
+I think I might get a new tattoo. I've been thinking about it for a while now.,,other,,,,
+I'm going to start a new podcast about local history. It's been a passion of mine for a while.,,other,,,,
+I am excited to see the new Star Wars movie tonight.,,other,,,,
+I am getting my motorcycle license this spring.,,other,,,,
+I am going to join a bowling league with some of my coworkers this winter.,,other,,,,
+"I'm trying to learn to fix my car myself. YouTube has been a lifesaver, honestly.",,,low,,,
+Balancing work and taking care of my little one is tough. Daycare costs are insane.,,,low,,,
+Just finished my shift. Gotta hurry home and start dinner before my second job.,,,low,,,
+My phone screen cracked again. I really need to find a cheaper repair option this time.,,,low,,,
+I’m saving up for a used laptop so I can finally take that online course everyone's talking about.,,,low,,,
+"Hoping to get a promotion soon. More money would really help with the bills, you know?",,,low,,,
+"Took the bus to work today. It's a long ride, but it saves on gas, which is great.",,,low,,,
+I'm helping my mom with her doctor's appointments. It's hard navigating all the paperwork.,,,low,,,
+Learned a new recipe from a free community class. Excited to try it out for dinner.,,,low,,,
+Finally got my tax refund. I'm going to put it towards catching up on rent.,,,low,,,
+My coworker showed me how to use a new app for budgeting. Hopefully it helps me save.,,,low,,,
+Need to find a better way to manage my time. Always feeling rushed and behind.,,,low,,,
+My kid's school is having a fundraiser. I’m volunteering to help with the bake sale.,,,low,,,
+Trying to learn a new skill in my spare time. Maybe I'll finally pick up coding.,,,low,,,
+Signed up for a free workshop on resume writing. Hoping to improve my job prospects.,,,low,,,
+I'm researching different grad school programs; it's a tough choice!,,,high,,,
+My thesis advisor suggested I apply for this prestigious fellowship.,,,high,,,
+Reading academic journals helps me stay updated in my field of research.,,,high,,,
+The university library is my favorite place to study; it's so peaceful.,,,high,,,
+I'm presenting my research at an international conference next month.,,,high,,,
+Volunteering at the free clinic lets me apply my medical knowledge.,,,high,,,
+Networking events at the law school are great for meeting potential employers.,,,high,,,
+I'm taking a course on advanced statistical modeling for my dissertation.,,,high,,,
+Tutoring underprivileged kids is a rewarding way to give back to the community.,,,high,,,
+I'm working on a complex machine learning algorithm for my PhD project.,,,high,,,
+I'm doing a post-doc in computational biology. It's fascinating work!,,,high,,,
+The philosophy reading group meets weekly to discuss challenging texts.,,,high,,,
+I’m thinking of taking an MBA to advance my career in finance.,,,high,,,
+Attending lectures by visiting professors broadens my perspective.,,,high,,,
+I enjoy debating current affairs with my classmates after seminars.,,,high,,,
+"I'm trying to save up for a used car, but it's tough with rent these days.",,,,low,,
+Need to find a cheaper phone plan; data keeps running out before the end of the month.,,,,low,,
+Anyone know where I can find free tax prep help this year?,,,,low,,
+"Community college classes are more affordable, but textbooks still cost a lot.",,,,low,,
+"My landlord raised the rent again, so I'm looking for a roommate.",,,,low,,
+I'm walking to work to save money on bus fare.,,,,low,,
+Trying to meal prep more to avoid eating out all the time.,,,,low,,
+"The library has free Wi-Fi, which is great since I can't afford internet at home.",,,,low,,
+"I wish I could afford to go to that concert, but groceries come first.",,,,low,,
+Hoping this temp job turns into something permanent soon.,,,,low,,
+Anyone know where I can find some free clothes for a job interview?,,,,low,,
+I’m donating plasma again to make extra cash this week.,,,,low,,
+"My food stamps barely cover the essentials, so I rely on the food bank a lot.",,,,low,,
+There's a free workshop at the community center next week I might check out.,,,,low,,
+"I’m good at fixing things, so I do odd jobs to make ends meet.",,,,low,,
+I'm thinking of investing in some blue-chip stocks.,,,,high,,
+We hired a personal chef for the weekend.,,,,high,,
+I'm scheduling a consultation with a financial advisor.,,,,high,,
+I just booked a villa in Tuscany for our summer vacation.,,,,high,,
+The kids' private school tuition is due next week.,,,,high,,
+We're donating to the new performing arts center.,,,,high,,
+I'm upgrading my home theater system.,,,,high,,
+I’m thinking about getting season tickets to the opera.,,,,high,,
+I need to schedule a lesson with my tennis coach.,,,,high,,
+Let's take the jet to our place in the Hamptons this weekend.,,,,high,,
+I'm considering a full renovation of the kitchen.,,,,high,,
+We're flying first class to the Maldives in December.,,,,high,,
+I'm thinking of commissioning a portrait of the family.,,,,high,,
+I'm going to a charity gala next Saturday.,,,,high,,
+We are adding an extra wing to the house for the children.,,,,high,,
+,,,,,"User: Hi, I'm trying to book a flight to Denver. | Agent: Okay, what dates are you looking at? | User: Next week. The site keeps crashing, it's so annoying! | Agent: I apologize for the inconvenience. Let me check availability for you. I see several options with United and Southwest. | User: Oh, great! Southwest would be perfect.",sentiment
+,,,,,"User: I need help finding a good restaurant. | Agent: What kind of cuisine are you in the mood for? | User: Italian, but somewhere not too fancy. This app is useless! | Agent: I understand. Let me filter by casual Italian restaurants with high ratings. How about 'Pasta Paradise'? | User: Pasta Paradise? That sounds perfect, thank you!",sentiment
+,,,,,"User: Can you tell me the weather forecast for tomorrow? | Agent: Certainly. What location are you interested in? | User: Seattle. Ugh, always raining! | Agent: Actually, tomorrow's forecast is sunny with a high of 70. | User: Wow, really? That's fantastic!",sentiment
+,,,,,"User: I need to return an item I bought online. | Agent: Okay, do you have the order number? | User: Yes, it's #12345. This process is so frustrating! | Agent: I apologize for the trouble. I've located the order. You can print a return label from this link. | User: A return label? Great, thanks for the help!",sentiment
+,,,,,"User: Find me some jazz music. | Agent: Okay, searching for jazz music. Do you have any preferences? | User: Something upbeat. All this waiting is making me impatient. | Agent: I've created a playlist of upbeat jazz. The first song is 'Take Five' by Dave Brubeck. | User: Perfect! 'Take Five' is one of my favorites.",sentiment
+,,,,,"User: I want to book a hotel room for tonight. | Agent: What city are you looking at? | User: Chicago. I swear, finding hotels is always a nightmare. | Agent: I can help. I see several hotels available. The 'Magnificent Mile Hotel' has great reviews. | User: Okay, tell me more about the 'Magnificent Mile Hotel'.",sentiment
+,,,,,"User: I need to reset my password. | Agent: Okay, what's your username? | User: It's 'john.doe'. I always forget my password; it's so annoying! | Agent: I understand. I've sent a password reset link to your email address. | User: Great, thanks for the quick help!",sentiment
+,,,,,"User: What time is it? | Agent: It is 3:00 PM. | User: 3 PM already?! This day is dragging on... | Agent: Is there anything I can do to help make your day more pleasant? | User: Actually, yes. Could you play some relaxing music?",sentiment
+,,,,,"User: Find me directions to the nearest coffee shop. | Agent: What is your current location? | User: 123 Main Street. I'm so tired; I need coffee desperately! | Agent: I found a 'Starbucks' 2 blocks away. Would you like directions? | User: Yes, please! Thank you so much!",sentiment
+,,,,,User: I'm trying to track my package. | Agent: What is the tracking number? | User: It's 9876543210. This shipping is taking forever! | Agent: I see the package is out for delivery and should arrive by 6 PM today. | User: Really? That's great news!,sentiment
+,,,,,"User: Book a table for two at 7 PM. | Agent: Where would you like to book? | User: 'The Italian Place'. Ugh, booking online is always a hassle. | Agent: I've confirmed a table for two at 'The Italian Place' for 7 PM. You will receive a confirmation email. | User: That's wonderful! Thank you.",sentiment
+,,,,,"User: What is the capital of France? | Agent: The capital of France is Paris. | User: Paris. It's so gloomy outside. I hate rainy days. | Agent: I understand. Would you like me to play some cheerful music to lift your spirits? | User: Yes, please! Something upbeat would be great.",sentiment
+,,,,,"User: I need to cancel my subscription. | Agent: What subscription are you referring to? | User: The 'Premium' one. Canceling subscriptions is such a pain! | Agent: I have cancelled your 'Premium' subscription. You will receive a confirmation email. | User: Perfect, thank you for your help!",sentiment
+,,,,,"User: Find me a comedy movie. | Agent: Searching for comedy movies. Any preferences? | User: Something light-hearted. This day has been awful, I need a laugh. | Agent: How about 'The Princess Bride'? | User: 'The Princess Bride' is perfect!",sentiment
+,,,,,"User: Set an alarm for 7 AM. | Agent: Alarm set for 7 AM. | User: 7 AM... I'm already dreading tomorrow. | Agent: Would you like me to find some motivational quotes to start your day off right? | User: Actually, yes, that would be nice.",sentiment
+,,,,,"User: I need help with my internet connection. | Agent: What seems to be the issue? | User: It keeps disconnecting! This is incredibly frustrating! | Agent: I understand. Let's try restarting your modem and router. | User: Okay, I'll try that.",sentiment
+,,,,,"User: Find the nearest gas station. | Agent: What is your current location? | User: I'm on Elm Street. Running out of gas is always so stressful! | Agent: There's a 'Shell' station half a mile ahead on Elm Street. | User: Great, I'll head there now. Thanks!",sentiment
+,,,,,"User: Play some classical music. | Agent: Playing classical music. Any specific composer? | User: Something calming. All this noise is making me jittery. | Agent: How about 'Clair de Lune' by Debussy? | User: Yes, that's perfect. Thank you!",sentiment
+,,,,,"User: I'd like a joke. | Agent: Sure, here's one: Why don't scientists trust atoms? Because they make up everything! | User: Haha, good one! This day has been rough; I needed that. | Agent: Glad I could help. Is there anything else I can assist you with? | User: No, that's all. Thanks again!",sentiment
+,,,,,"User: I can't find my keys. | Agent: When did you last have them? | User: I don't know! This is just great. I'm going to be late. | Agent: Don't worry, let's take a deep breath. Think about where you usually put them. | User: Okay, okay...I think I left them by the door! | Agent: Great, I hope you find them there!",sentiment
+,,,,,User: Is the capital of Australia Sydney? | Agent: The capital of Australia is actually Canberra. | User: Canberra? I thought it was Sydney. Thanks for the correction!,knowledge
+,,,,,"User: I'm not sure how to solve this math problem. | Agent: Can you tell me the problem? | User: It's 2x + 5 = 11. What's x? | Agent: Subtract 5 from both sides, then divide by 2. That should give you x. | User: Oh! So x = 3. I get it now!",knowledge
+,,,,,User: I believe the Earth is flat. | Agent: Modern science provides overwhelming evidence that the Earth is a sphere. | User: Really? All the pictures I've seen make sense now. I was misled!,knowledge
+,,,,,"User: I'm not sure what the best way to cook chicken is. | Agent: There are many ways, but roasting is a good start. Do you want a simple recipe? | User: Yes, please! | Agent: Preheat oven to 400, season chicken, and roast for about an hour. Use a meat thermometer to be sure. | User: Great, that sounds easy enough. I will try that!",knowledge
+,,,,,"User: I thought penguins lived at the north pole. | Agent: Actually, penguins live at the south pole. | User: Oh, I always get those confused. Thanks!",knowledge
+,,,,,"User: I'm trying to learn how to code, but it's confusing. | Agent: What language are you trying to learn and what is confusing you? | User: Python, and I am not sure how functions work. | Agent: Functions are reusable blocks of code. Here is a simple example... | User: I see, the example makes it clear! Thanks!",knowledge
+,,,,,"User: Is a tomato a fruit or a vegetable? | Agent: Botanically, a tomato is a fruit, but culinarily it's used as a vegetable. | User: I did not know that! Thank you!",knowledge
+,,,,,"User: I think Shakespeare wrote 'The Odyssey'. | Agent: 'The Odyssey' was actually written by Homer. | User: Oh, you're right! My mistake.",knowledge
+,,,,,"User: I'm not sure how to start writing a resume. | Agent: Start with your contact information and a brief summary. | User: Oh, a summary first? Okay, that makes sense. | Agent: Followed by your work experience and education. | User: Got it! Thanks for the guidance!",knowledge
+,,,,,"User: I heard that caffeine dehydrates you. | Agent: Actually, moderate caffeine intake doesn't typically lead to dehydration. | User: Really? That's good to know. I always thought I had to drink extra water.",knowledge
+,,,,,"User: I'm confused about how to calculate percentages. | Agent: What specific calculation are you struggling with? | User: Finding 15% of 200. | Agent: Multiply 200 by 0.15. | User: Oh, so it's 30! I understand now.",knowledge
+,,,,,"User: I thought diamonds were made of coal. | Agent: Diamonds are actually made of carbon, but not from coal. | User: So coal isn't related? How interesting!",knowledge
+,,,,,"User: I don't know which programming language to learn first. | Agent: Python is a good choice for beginners. | User: What makes it good for beginners? | Agent: It is easy to read and has many libraries. | User: Okay, Python it is! Thanks for the suggestion.",knowledge
+,,,,,"User: I always thought that lightning never strikes the same place twice. | Agent: That's actually a myth. Lightning can strike the same place multiple times. | User: Wow, I had no idea! That's good to know.",knowledge
+,,,,,"User: I'm trying to figure out how to properly install a new graphics card. | Agent: Make sure the computer is off, then seat it firmly in the PCI-e slot and connect the power. | User: PCI-e? Is that where it goes? | Agent: Yes, it is the long slot near the top of the motherboard | User: Okay, that makes sense! Thank you!",knowledge
+,,,,,"User: I thought chameleons changed color to match their surroundings. | Agent: They actually change color due to temperature, mood, and light. | User: Oh, so it's not camouflage? That's fascinating!",knowledge
+,,,,,"User: I'm confused about the difference between RAM and storage. | Agent: RAM is for short-term data access, while storage is for long-term. | User: So RAM is like short-term memory and storage is long-term? | Agent: Exactly! | User: I get it now. Thank you!",knowledge
+,,,,,User: I heard vaccines cause autism. | Agent: That's a common misconception that has been disproven by numerous studies. | User: Really? I'm relieved to hear that. Where can I find some of those studies? | Agent: I can point you to the CDC or WHO websites | User: Please do!,knowledge
+,,,,,"User: I am looking to buy a car but unsure whether to get a lease or loan. | Agent: Leasing has lower monthly payments, but you don't own the car. A loan means ownership after payments. | User: I see, so leasing is basically renting? | Agent: Exactly. Consider how long you want to drive the car and how much you can afford. | User: Okay, I think I prefer owning it in the long run. Loan it is!",knowledge
+,,,,,"User: I believe Christopher Columbus discovered America. | Agent: While Columbus's voyage was significant, indigenous people were already living here. | User: Oh, right! I forgot about that. So he didn't really discover it. | Agent: Correct. He introduced Europe to America. | User: Okay, I understand now!",knowledge
